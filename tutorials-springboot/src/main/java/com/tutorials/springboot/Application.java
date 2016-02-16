@@ -3,6 +3,11 @@ package com.tutorials.springboot;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Spring Boot Application main class.
+ *
+ * @author Joseph Masini
+ */
 @SpringBootApplication
 public class Application {
 
